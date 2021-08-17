@@ -1,0 +1,16 @@
+body{
+    background-color: #E7E0C9;
+}
+hr{
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: grey;
+  height: 2px;
+  width:7%;
+}
+.mainImage{
+  border-radius: 50%
+}
+h1, h3{
+  color:#66bfbf;
+}
