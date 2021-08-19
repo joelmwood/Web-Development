@@ -1,0 +1,23 @@
+/*-----------------------TAG SELECTORS--------------------------*/
+body {
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+/*-------------------CLASS SELECTORS---------------------------*/
+.topContainer{
+  background-color: #e4f9f5;
+}
+.middleContainer{
+  width: 200px;
+  height:200px;
+  background-color: red;
+}
+.bottomContainer{
+    width: 200px;
+    height:200px;
+    background-color: blue;
+}
