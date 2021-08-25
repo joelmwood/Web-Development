@@ -40,12 +40,22 @@ h3{
   position: relative;
   padding-top: 100px;
 }
-.middleContainer{
+.middle-container{
 
 }
-.bottomContainer{
-
+.bottom-container{
+  width: 50%;
+  margin: auto;
 }
 .img-html, .img-chillies{
   width: 150px;
+}
+
+.skills{
+  width: 50%;
+  margin: auto;
+}
+.contact-me{
+  width: 50%;
+  margin: auto;
 }
